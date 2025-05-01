@@ -1,0 +1,25 @@
+{
+  "id": 164,
+  "name": "Naiara Costa",
+  "nickName": "",
+  "store": {
+    "id": 205,
+    "address": {
+      "addressLine": "193 Guaira Street",
+      "city": "São José dos Pinhais",
+      "state_province": "PR",
+      "country": "Brazil",
+      "zip": "83030-591"
+    }
+  },
+  "orderLineItems": [
+    {
+      "name": "Caffe Latte",
+      "size": "MEDIUM",
+      "quantity": 1,
+      "cost": 3.99
+    }
+  ],
+  "orderedTime": "2025-04-17T18:49:10.262Z",
+  "status": "NEW"
+}
